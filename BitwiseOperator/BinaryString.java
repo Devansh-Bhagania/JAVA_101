@@ -1,6 +1,10 @@
 // package BitwiseOperator;
 // convert string to binary 
 
+
+
+// new java 101  created 
+
 public class BinaryString { 
         public static void main(String[] args) {
         int a = 10;
